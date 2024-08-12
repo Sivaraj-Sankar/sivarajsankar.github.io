@@ -1,13 +1,14 @@
-# Aspiring AI Engineer/LLMOps 
+# Aspiring ML Engineer/MLOps 
 
-#### Technical Skills: Azure ML, Azure AI Engineer, GenAI Application Development[Agentic Workflow], LLM FineTuning, Applied Statistics, Applied Mathematics(Differential), Data Visualization, Machine Learning, Time Series Concepts, Deep Learning, MLOps Tools, SQL, Python, DevOps Tools
+#### Technical Skills: Azure ML Engineer, Azure AI Engineer, GenAI Application Development[Agentic Workflow], LLM FineTuning, Machine Learning, Time Series Concepts, Deep Learning, MLOps Tools, SQL, Python, Applied Statistics, Applied Mathematics(Differential), Data Visualization, DevOps Tools
 
 ## Profile Summary							       		
-- Experienced Software Developer at TCS, serving Morgan Stanley in the Financial domain for 3+ years.
-- Proficient in Mainframe (Natural/Adabas) and Java technologies. Personally learning and practicing in Machine Learning/AI Engineer[GenAI LLMOps] for past 2 years.
+- Experienced Software Developer at TCS, serving Morgan Stanley in the Financial domain - Capital Market for 3+ years.
+- Proficient in Python and Java technologies. Personally learning and practicing in Machine Learning/MLOps for past 2 years.
+- Passionate about Data Scientist and also Machine Learning enthusiast with Strong understanding of data modelling,
+  statistical methods, and predictive analytics using machine learning algorithms.
 - Have HandsOn Experience in leveraging large language models (LLMs) for creating intelligent solutions - Agentic Workflow and LLM Fine Tuning for specific UseCases  
-- Aspiring to Pursue my career transition goal towards the world of GenAI Advancement to bring valuable outcomes and significant impact.
-- I am passionately aspiring to transition my career towards becoming an AI Engineer. Through continuous learning and practical application, I have developed a deep interest in AI and its transformative potential. I am eager to leverage my skills and knowledge in AI to contribute to innovative projects and drive impactful solutions.
+- Aspiring to Pursue my career transition goal towards the world of data science and machine learning to bring valuable outcomes and significant impact.
 
 ## Course Works
 #### 📊 GenAI Courses Covered in DeepLearning.AI Platform:
@@ -24,7 +25,18 @@
 - Multi AI Agent Systems with crewAI 
 - AI Agentic Design Patterns with AutoGen provided by Microsoft
 - AI Agents in LangGraph 
-- Building Your Own Database Agent 
+- Building Your Own Database Agent
+
+#### 📊 Applied Statistics Coursework - LinkedIn:
+#### Topics Covered:
+- Descriptive Statistics
+- Probabilities and Bell Shape Curve
+- Z-Score Transformation
+- Hypothesis Testing
+- Confidence Interval
+- Standard Error
+- P-Value Determination
+- Various Statistical Tests (Chi-Square, ANOVA) etc
 
 #### 📊 IBM Data Science Specialization - Coursera:
 - Explored the entire spectrum of Data Science concepts and methodologies.
