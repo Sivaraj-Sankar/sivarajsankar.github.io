@@ -1,14 +1,15 @@
-# GenAI Engineer/LLMOps 
+# Senior Agentic AI Engineer/LLMOps 
 
-#### Technical Skills: Azure ML Engineer, Azure AI Engineer, GenAI Application Development[Agentic Workflow], LLM FineTuning, Machine Learning, Time Series Concepts, Deep Learning, MLOps Tools, SQL, Python, Applied Statistics, Applied Mathematics(Differential), Data Visualization, DevOps Tools
+
+#### Technical Skills: GenAI & LLMOps: Context Engineering, Prompt Engineering, LangChain, LangGraph, LlamaIndex, CrewAI, AutoGen, Semantic Kernel, Microsoft Copilot Studio, GitHub Copilot, Claude Code, Codex.
 
 ## Profile Summary							       		
-- Experienced Software Developer at TCS, serving Morgan Stanley in the Financial domain - Capital Market for 3+ years.
-- Proficient in Python and Java technologies. Personally learning and practicing in Machine Learning/MLOps for past 2 years.
-- Passionate about Data Scientist and also Machine Learning enthusiast with Strong understanding of data modelling,
-  statistical methods, and predictive analytics using machine learning algorithms.
-- Have HandsOn Experience in leveraging large language models (LLMs) for creating intelligent solutions - Agentic Workflow and LLM Fine Tuning for specific UseCases  
-- Aspiring to Pursue my career transition goal towards the world of data science and machine learning to bring valuable outcomes and significant impact.
+- Senior Agentic AI Engineer with 5.5 years of experience in architecting, designing, developing and testing production-grade
+  Generative AI Workflow, Agentic AI, and Retrieval-Augmented Generation (RAG) systems.
+- Skilled in data pre-processing, designing intelligent AI Agents, orchestrating GenAI workflows, and deploying scalable AI applications in BFSI &
+Energy domain.
+- Proficient in LLMOps, RAG pipelines, AI Agent orchestration, and System Integration with proven
+experience in improving the decision workflows.
 
 ## Course Works
 #### 📊 GenAI Courses Covered in DeepLearning.AI Platform:
